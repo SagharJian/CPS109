@@ -1,4 +1,4 @@
-# CPS1092020
+# CPS109_2022
 This is where examples for the labs will be posted on a weekly basis
 
 To see the examples, click the folder for the week you want (lab 1 examples are in the folder Lab1 for instance).
