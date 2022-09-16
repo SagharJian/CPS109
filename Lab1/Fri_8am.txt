@@ -1,0 +1,20 @@
+Write a python function that takes 3 integer values, order them from greatest to least, 
+using only (if or  if/elif../else ). The output of your program should be in the following format:  3>2>1, 
+however you are not allowed to use print() inside the function. You are also not allowed to use 
+(if a>b>c: ) 
+Hint1: think about nested if
+Hint2: this is how we format our strings in python
+a=5
+print(f”a is {a}”)
+
+Input: a=5,b=-10,c=4 
+Output: 5>4>-10
+
+Input: a=15 , b=10 , c=4
+Output: 15>10>4
+
+Input: a=5,b=-8,c=14
+Output: 14>5>-8
+
+Bonus Question: Try to write the same program this time by only using python built-in functions.
+https://docs.python.org/3/library/functions.html
